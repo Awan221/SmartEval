@@ -90,7 +90,7 @@ Ce projet a été réalisé dans le cadre d’un projet académique à l’Écol
 ## Auteures
 
 **Awa Ndiaye**  
-Élève ingénieure en DIC2 Télécommunications et réseaux à l'ESP Dakar
+Élève ingénieure en DIC2 Informatique à l'ESP Dakar
 
 
 **Fatou Myrième Baye Momar Dabo**  
