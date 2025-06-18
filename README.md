@@ -80,8 +80,8 @@ ollama run deepseek-coder
 
 ## Guides utilisateurs
 
-- [Guide Professeurs (PDF)](./docs/guide_professeurs.pdf)
-- [Guide Étudiants (PDF)](./docs/guide_etudiants.pdf)
+- [Guide Professeurs (PDF)](./docs/Guide_Utilisateurs_Professeurs.pdf)
+- [Guide Étudiants (PDF)](./docs/Guide_Utilisateur_Etudiants.pdf)
 
 ## À propos
 
