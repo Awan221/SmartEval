@@ -87,7 +87,7 @@ ollama run deepseek-coder
 
 Ce projet a été réalisé dans le cadre d’un projet académique à l’École Supérieure Polytechnique de Dakar. Il vise à démontrer l’intégration de l’IA dans des plateformes éducatives à travers une architecture distribuée moderne.
 
-## Auteure
+## Auteures
 
 **Awa Ndiaye**  
 Élève ingénieure en DIC2 Télécommunications et réseaux à l'ESP Dakar
